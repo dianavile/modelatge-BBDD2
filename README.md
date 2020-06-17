@@ -11,6 +11,6 @@ Exercici Modelatge BBDD
 ## 4 Amazon
 ![Amazondb](https://github.com/dianavile/modelatge-BBDD2/blob/master/4-Amazondb.PNG)
 ## 5 Xarxa Social
-![]()
+![XarxaSocialdb](https://github.com/dianavile/modelatge-BBDD2/blob/master/5-XarxaSocialdb.PNG)
 ## 6 Optica
 ![]()
