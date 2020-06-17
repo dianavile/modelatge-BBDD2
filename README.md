@@ -13,4 +13,4 @@ Exercici Modelatge BBDD
 ## 5 Xarxa Social
 ![XarxaSocialdb](https://github.com/dianavile/modelatge-BBDD2/blob/master/5-XarxaSocialdb.PNG)
 ## 6 Optica
-![]()
+![Culdampolla_Opticadb](https://github.com/dianavile/modelatge-BBDD2/blob/master/6-Opticadb.PNG)
