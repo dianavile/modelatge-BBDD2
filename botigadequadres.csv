@@ -1,0 +1,2 @@
+"id_comprador","nom","cognom","DNI"
+"id_quadre","preu","autor","id_comprador"
