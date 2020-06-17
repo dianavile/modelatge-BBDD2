@@ -5,7 +5,7 @@ Exercici Modelatge BBDD
 ## 1 Vueling
 ![Vuelingdb](https://github.com/dianavile/modelatge-BBDD2/blob/master/vuelingdb.PNG)
 ## 2 Botiga
-![]()
+![botigadequadresdb](https://github.com/dianavile/modelatge-BBDD2/blob/master/botigadequadresdb.PNG)
 ## 3 Stube
 ![]()
 ## 4 Amazon
