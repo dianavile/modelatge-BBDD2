@@ -9,7 +9,7 @@ Exercici Modelatge BBDD
 ## 3 Stube
 ![stubedb](https://github.com/dianavile/modelatge-BBDD2/blob/master/3-stubedb.PNG)
 ## 4 Amazon
-![]()
+![Amazondb](https://github.com/dianavile/modelatge-BBDD2/blob/master/4-Amazondb.PNG)
 ## 5 Xarxa Social
 ![]()
 ## 6 Optica
